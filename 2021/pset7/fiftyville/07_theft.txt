@@ -1,0 +1,2 @@
+id | name | phone_number | passport_number | license_plate
+686048 | Ernest | (367) 555-5533 | 5773159633 | 94KL13X

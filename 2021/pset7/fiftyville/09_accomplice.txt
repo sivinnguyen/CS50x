@@ -1,0 +1,2 @@
+id | name | phone_number | passport_number | license_plate
+864400 | Berthold | (375) 555-8161 |  | 4V16VO0

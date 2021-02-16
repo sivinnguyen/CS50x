@@ -1,0 +1,9 @@
+account_number | amount | transaction_type | atm_location
+28500762 | 48 | withdraw | Fifer Street
+28296815 | 20 | withdraw | Fifer Street
+76054385 | 60 | withdraw | Fifer Street
+49610011 | 50 | withdraw | Fifer Street
+16153065 | 80 | withdraw | Fifer Street
+25506511 | 20 | withdraw | Fifer Street
+81061156 | 30 | withdraw | Fifer Street
+26013199 | 35 | withdraw | Fifer Street
