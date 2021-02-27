@@ -1,0 +1,49 @@
+#main {
+    max-width: 42em;
+}
+
+.content {
+    padding-top: 77px;
+}
+
+.avatar {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+.title {
+    font-family: 'Amatic SC', cursive;
+    color: #D7DBD1;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+}
+
+.title > span {
+    color: #ffe505;
+    font-size: 3rem;
+}
+
+.bio {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+}
+
+.social > a {
+    padding: 20px;
+    font-size: 1.5rem;
+    color: #f280be;
+}
+
+.social > a:hover {
+    color: #f6a9cf;
+}
+
+.bg-my-gradient {
+     background: rgb(19,35,35);
+     background: -webkit-linear-gradient(214deg, rgba(19,35,35,1) 0%, rgba(28,56,58,1) 21%, rgba(19,35,35,1) 100%);
+     background: -moz-linear-gradient(214deg, rgba(19,35,35,1) 0%, rgba(28,56,58,1) 21%, rgba(19,35,35,1) 100%);
+     background: -o-linear-gradient(214deg, rgba(19,35,35,1) 0%, rgba(28,56,58,1) 21%, rgba(19,35,35,1) 100%);
+     background: linear-gradient(304deg, rgba(19,35,35,1) 0%, rgba(28,56,58,1) 21%, rgba(19,35,35,1) 100%);
+}
